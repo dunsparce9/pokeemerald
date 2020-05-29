@@ -4,12 +4,12 @@
 ### Less annoying berries
 Removes various unnecessary dialogs and question boxes when planting/watering/picking berries.
 ## Planned tweaks
-Item/pokemon/trainer names in sentence case instead of uppercase
+- Item/pokemon/trainer names in sentence case instead of uppercase
 
-One-tap heal at pokémon center (remove all nurse dialogs)
+- One-tap heal at pokémon center (remove all nurse dialogs)
 
-Add mewthree
+- Add mewthree
 
-Remove the water
+- Remove the water
 
-Idk
+- Idk
