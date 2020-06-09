@@ -6,7 +6,7 @@ Removes various unnecessary dialogs and question boxes when planting/watering/pi
 ## Planned tweaks
 - Item/pokemon/trainer names in sentence case instead of uppercase
 
-- One-tap heal at pokémon center (remove all nurse dialogs)
+- done: ~~One-tap heal at pokémon center (remove all nurse dialogs)~~
 
 - Add mewthree
 
